@@ -63,8 +63,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\LoadingScreen.cs" />
-    <Compile Include="Assets\Scripts\SceneManagerScript.cs" />
+    <Compile Include="Assets\Scripts\Attackers\LizardManager.cs" />
+    <Compile Include="Assets\Scripts\Attackers\MovementController.cs" />
+    <Compile Include="Assets\Scripts\Audio\AudioManager.cs" />
+    <Compile Include="Assets\Scripts\Audio\AudioSettings.cs" />
+    <Compile Include="Assets\Scripts\Audio\SoundManager.cs" />
+    <Compile Include="Assets\Scripts\Defenders\Ammo.cs" />
+    <Compile Include="Assets\Scripts\Defenders\DefenderBaricade.cs" />
+    <Compile Include="Assets\Scripts\Defenders\DefenderProduction.cs" />
+    <Compile Include="Assets\Scripts\Defenders\DefenderShooter.cs" />
+    <Compile Include="Assets\Scripts\EnemySpawner.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Interface\IDamageable.cs" />
+    <Compile Include="Assets\Scripts\SceneManager\LoadingScreen.cs" />
+    <Compile Include="Assets\Scripts\SceneManager\SceneManagerScript.cs" />
+    <Compile Include="Assets\Scripts\Shreder.cs" />
+    <Compile Include="Assets\Scripts\TESTSCRIPT.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
