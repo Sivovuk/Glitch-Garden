@@ -63,29 +63,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Attackers\Attacker.cs" />
-    <Compile Include="Assets\Scripts\Attackers\Fox.cs" />
-    <Compile Include="Assets\Scripts\Attackers\Lizard.cs" />
-    <Compile Include="Assets\Scripts\Attackers\Spawner.cs" />
-    <Compile Include="Assets\Scripts\Defenders\DefenderSpawner.cs" />
-    <Compile Include="Assets\Scripts\Defenders\Defenders.cs" />
-    <Compile Include="Assets\Scripts\Defenders\Projectile.cs" />
-    <Compile Include="Assets\Scripts\Defenders\Shooter.cs" />
-    <Compile Include="Assets\Scripts\Defenders\Stone.cs" />
-    <Compile Include="Assets\Scripts\Gameplay\Buttons.cs" />
-    <Compile Include="Assets\Scripts\Gameplay\GameTimer.cs" />
-    <Compile Include="Assets\Scripts\Gameplay\Health.cs" />
-    <Compile Include="Assets\Scripts\Gameplay\LevelMenager.cs" />
-    <Compile Include="Assets\Scripts\Gameplay\LoseCollider.cs" />
-    <Compile Include="Assets\Scripts\Gameplay\PlayersLife.cs" />
-    <Compile Include="Assets\Scripts\Gameplay\Shredder.cs" />
-    <Compile Include="Assets\Scripts\Gameplay\SpawnerController.cs" />
-    <Compile Include="Assets\Scripts\Gameplay\StarDisplay.cs" />
-    <Compile Include="Assets\Scripts\UI Management\FadeIn.cs" />
-    <Compile Include="Assets\Scripts\UI Management\MusicMenager.cs" />
-    <Compile Include="Assets\Scripts\UI Management\OptionsController.cs" />
-    <Compile Include="Assets\Scripts\UI Management\PlayerPrefsMenager.cs" />
-    <Compile Include="Assets\Scripts\UI Management\SetStartVolume.cs" />
+    <Compile Include="Assets\Scripts\LoadingScreen.cs" />
+    <Compile Include="Assets\Scripts\SceneManagerScript.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -270,13 +249,13 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.3f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.3f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -624,67 +603,67 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.3f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Monetization">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Editor">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Advertisements">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-weaver.Editor">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Runtime">
-      <HintPath>D:/Desktop/Unity projekti/3. PORTFOLIO/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
+      <HintPath>C:/Users/ExePlay06/Documents/Unity projekti/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
