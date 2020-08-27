@@ -9,9 +9,14 @@ public class SceneManagerScript : MonoBehaviour {
 
     public static SceneManagerScript Instance => instance;
 
-    private void Start()
+    private void Awake()
     {
         instance = this;
+    }
+
+    private void Start()
+    {
+        Time.timeScale = 1;
     }
 
     public void RestartScene() 
@@ -27,5 +32,15 @@ public class SceneManagerScript : MonoBehaviour {
     public void QuitGame()
     {
         Application.Quit();
+    }
+
+    public void PauseGame()
+    {
+        Time.timeScale = 0;
+    }
+
+    public void ResumeGame() 
+    {
+        Time.timeScale = 1;
     }
 }

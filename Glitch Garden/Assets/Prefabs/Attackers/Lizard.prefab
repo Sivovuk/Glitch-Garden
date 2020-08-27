@@ -73,7 +73,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 327728061
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: -3340233067479159950, guid: fbcb99c54818fe34ea146e2c7aec6028,
     type: 3}
@@ -119,11 +119,11 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.04936093, y: 0.21499997}
+  m_Offset: {x: -0.59, y: 0.21499997}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.25}
-    oldSize: {x: 0.8, y: 0.86}
+    oldSize: {x: 2.51, y: 1.86}
     newSize: {x: 2.51, y: 1.86}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -167,8 +167,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _health: 3
   _damage: 1
+  _score: 5
+  _timePass: 0
   _attackSpeed: 1
+  isAttacking: 0
   _target: {fileID: 0}
+  _effect: {fileID: 1906222994913036, guid: 740c2b3187d56c341b8cb78e8aa925c5, type: 3}
   _movementController: {fileID: 7898566892960572478}
   _animator: {fileID: 7977864443175039466}
 --- !u!114 &7898566892960572478
@@ -184,3 +188,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _walkingSpeed: 3
+  _runningSpeed: 0

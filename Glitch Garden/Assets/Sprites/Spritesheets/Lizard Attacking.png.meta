@@ -636,10 +636,10 @@ TextureImporter:
       name: Lizard Attacking_0
       rect:
         serializedVersion: 2
-        x: 37
-        y: 952
-        width: 80
-        height: 86
+        x: 0
+        y: 930
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -657,10 +657,10 @@ TextureImporter:
       name: Lizard Attacking_1
       rect:
         serializedVersion: 2
-        x: 288
-        y: 952
-        width: 80
-        height: 86
+        x: 251
+        y: 930
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -678,10 +678,10 @@ TextureImporter:
       name: Lizard Attacking_2
       rect:
         serializedVersion: 2
-        x: 539
-        y: 952
-        width: 80
-        height: 86
+        x: 502
+        y: 930
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -699,10 +699,10 @@ TextureImporter:
       name: Lizard Attacking_3
       rect:
         serializedVersion: 2
-        x: 790
-        y: 952
-        width: 80
-        height: 86
+        x: 753
+        y: 930
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -720,10 +720,10 @@ TextureImporter:
       name: Lizard Attacking_4
       rect:
         serializedVersion: 2
-        x: 1041
-        y: 952
-        width: 80
-        height: 86
+        x: 1004
+        y: 930
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -741,10 +741,10 @@ TextureImporter:
       name: Lizard Attacking_5
       rect:
         serializedVersion: 2
-        x: 1292
-        y: 952
-        width: 80
-        height: 86
+        x: 1255
+        y: 930
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -762,10 +762,10 @@ TextureImporter:
       name: Lizard Attacking_6
       rect:
         serializedVersion: 2
-        x: 1543
-        y: 952
-        width: 80
-        height: 86
+        x: 1506
+        y: 930
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -783,10 +783,10 @@ TextureImporter:
       name: Lizard Attacking_7
       rect:
         serializedVersion: 2
-        x: 1794
-        y: 952
-        width: 80
-        height: 86
+        x: 1757
+        y: 930
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -804,10 +804,10 @@ TextureImporter:
       name: Lizard Attacking_8
       rect:
         serializedVersion: 2
-        x: 2045
-        y: 952
-        width: 80
-        height: 86
+        x: 2008
+        y: 930
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -825,10 +825,10 @@ TextureImporter:
       name: Lizard Attacking_9
       rect:
         serializedVersion: 2
-        x: 2296
-        y: 952
-        width: 80
-        height: 86
+        x: 2259
+        y: 930
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -846,10 +846,10 @@ TextureImporter:
       name: Lizard Attacking_10
       rect:
         serializedVersion: 2
-        x: 2547
-        y: 952
-        width: 80
-        height: 86
+        x: 2510
+        y: 930
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -867,10 +867,10 @@ TextureImporter:
       name: Lizard Attacking_11
       rect:
         serializedVersion: 2
-        x: 2799
-        y: 952
-        width: 79
-        height: 86
+        x: 2761
+        y: 930
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -888,10 +888,10 @@ TextureImporter:
       name: Lizard Attacking_12
       rect:
         serializedVersion: 2
-        x: 3049
-        y: 952
-        width: 80
-        height: 86
+        x: 3012
+        y: 930
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -909,10 +909,10 @@ TextureImporter:
       name: Lizard Attacking_13
       rect:
         serializedVersion: 2
-        x: 3301
-        y: 952
-        width: 79
-        height: 86
+        x: 3263
+        y: 930
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -930,10 +930,10 @@ TextureImporter:
       name: Lizard Attacking_14
       rect:
         serializedVersion: 2
-        x: 3552
-        y: 952
-        width: 79
-        height: 86
+        x: 3514
+        y: 930
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -951,10 +951,10 @@ TextureImporter:
       name: Lizard Attacking_15
       rect:
         serializedVersion: 2
-        x: 38
-        y: 766
-        width: 79
-        height: 86
+        x: 0
+        y: 744
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -972,10 +972,10 @@ TextureImporter:
       name: Lizard Attacking_16
       rect:
         serializedVersion: 2
-        x: 289
-        y: 766
-        width: 79
-        height: 86
+        x: 251
+        y: 744
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -993,10 +993,10 @@ TextureImporter:
       name: Lizard Attacking_17
       rect:
         serializedVersion: 2
-        x: 540
-        y: 766
-        width: 79
-        height: 86
+        x: 502
+        y: 744
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1014,10 +1014,10 @@ TextureImporter:
       name: Lizard Attacking_18
       rect:
         serializedVersion: 2
-        x: 791
-        y: 766
-        width: 79
-        height: 86
+        x: 753
+        y: 744
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1035,10 +1035,10 @@ TextureImporter:
       name: Lizard Attacking_19
       rect:
         serializedVersion: 2
-        x: 1042
-        y: 766
-        width: 79
-        height: 86
+        x: 1004
+        y: 744
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1056,10 +1056,10 @@ TextureImporter:
       name: Lizard Attacking_20
       rect:
         serializedVersion: 2
-        x: 1292
-        y: 766
-        width: 80
-        height: 86
+        x: 1255
+        y: 744
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1077,10 +1077,10 @@ TextureImporter:
       name: Lizard Attacking_21
       rect:
         serializedVersion: 2
-        x: 1543
-        y: 766
-        width: 80
-        height: 86
+        x: 1506
+        y: 744
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1098,10 +1098,10 @@ TextureImporter:
       name: Lizard Attacking_22
       rect:
         serializedVersion: 2
-        x: 1794
-        y: 766
-        width: 80
-        height: 86
+        x: 1757
+        y: 744
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1119,10 +1119,10 @@ TextureImporter:
       name: Lizard Attacking_23
       rect:
         serializedVersion: 2
-        x: 2045
-        y: 766
-        width: 80
-        height: 87
+        x: 2008
+        y: 744
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1140,10 +1140,10 @@ TextureImporter:
       name: Lizard Attacking_24
       rect:
         serializedVersion: 2
-        x: 2295
-        y: 766
-        width: 81
-        height: 87
+        x: 2259
+        y: 744
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1161,10 +1161,10 @@ TextureImporter:
       name: Lizard Attacking_25
       rect:
         serializedVersion: 2
-        x: 2546
-        y: 766
-        width: 81
-        height: 87
+        x: 2510
+        y: 744
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1182,10 +1182,10 @@ TextureImporter:
       name: Lizard Attacking_26
       rect:
         serializedVersion: 2
-        x: 2797
-        y: 766
-        width: 81
-        height: 87
+        x: 2761
+        y: 744
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1203,10 +1203,10 @@ TextureImporter:
       name: Lizard Attacking_27
       rect:
         serializedVersion: 2
-        x: 3048
-        y: 766
-        width: 81
-        height: 87
+        x: 3012
+        y: 744
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1224,10 +1224,10 @@ TextureImporter:
       name: Lizard Attacking_28
       rect:
         serializedVersion: 2
-        x: 3300
-        y: 766
-        width: 80
-        height: 87
+        x: 3263
+        y: 744
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1245,10 +1245,10 @@ TextureImporter:
       name: Lizard Attacking_29
       rect:
         serializedVersion: 2
-        x: 3551
-        y: 766
-        width: 80
-        height: 86
+        x: 3514
+        y: 744
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1266,10 +1266,10 @@ TextureImporter:
       name: Lizard Attacking_30
       rect:
         serializedVersion: 2
-        x: 37
-        y: 580
-        width: 80
-        height: 86
+        x: 0
+        y: 558
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1287,10 +1287,10 @@ TextureImporter:
       name: Lizard Attacking_31
       rect:
         serializedVersion: 2
-        x: 288
-        y: 580
-        width: 80
-        height: 86
+        x: 251
+        y: 558
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1308,10 +1308,10 @@ TextureImporter:
       name: Lizard Attacking_32
       rect:
         serializedVersion: 2
-        x: 540
-        y: 580
-        width: 79
-        height: 86
+        x: 502
+        y: 558
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1329,10 +1329,10 @@ TextureImporter:
       name: Lizard Attacking_33
       rect:
         serializedVersion: 2
-        x: 791
-        y: 580
-        width: 79
-        height: 86
+        x: 753
+        y: 558
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1350,10 +1350,10 @@ TextureImporter:
       name: Lizard Attacking_34
       rect:
         serializedVersion: 2
-        x: 1042
-        y: 580
-        width: 79
-        height: 86
+        x: 1004
+        y: 558
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1371,10 +1371,10 @@ TextureImporter:
       name: Lizard Attacking_35
       rect:
         serializedVersion: 2
-        x: 1293
-        y: 580
-        width: 79
-        height: 86
+        x: 1255
+        y: 558
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1392,10 +1392,10 @@ TextureImporter:
       name: Lizard Attacking_36
       rect:
         serializedVersion: 2
-        x: 1544
-        y: 580
-        width: 79
-        height: 86
+        x: 1506
+        y: 558
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1413,10 +1413,10 @@ TextureImporter:
       name: Lizard Attacking_37
       rect:
         serializedVersion: 2
-        x: 1794
-        y: 580
-        width: 80
-        height: 86
+        x: 1757
+        y: 558
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1434,10 +1434,10 @@ TextureImporter:
       name: Lizard Attacking_38
       rect:
         serializedVersion: 2
-        x: 2046
-        y: 580
-        width: 79
-        height: 86
+        x: 2008
+        y: 558
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1455,10 +1455,10 @@ TextureImporter:
       name: Lizard Attacking_39
       rect:
         serializedVersion: 2
-        x: 2296
-        y: 580
-        width: 80
-        height: 86
+        x: 2259
+        y: 558
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1476,10 +1476,10 @@ TextureImporter:
       name: Lizard Attacking_40
       rect:
         serializedVersion: 2
-        x: 2547
-        y: 580
-        width: 80
-        height: 86
+        x: 2510
+        y: 558
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1497,10 +1497,10 @@ TextureImporter:
       name: Lizard Attacking_41
       rect:
         serializedVersion: 2
-        x: 2798
-        y: 580
-        width: 80
-        height: 86
+        x: 2761
+        y: 558
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1518,10 +1518,10 @@ TextureImporter:
       name: Lizard Attacking_42
       rect:
         serializedVersion: 2
-        x: 3049
-        y: 580
-        width: 80
-        height: 86
+        x: 3012
+        y: 558
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1539,10 +1539,10 @@ TextureImporter:
       name: Lizard Attacking_43
       rect:
         serializedVersion: 2
-        x: 3300
-        y: 580
-        width: 80
-        height: 86
+        x: 3263
+        y: 558
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1560,10 +1560,10 @@ TextureImporter:
       name: Lizard Attacking_44
       rect:
         serializedVersion: 2
-        x: 3551
-        y: 580
-        width: 80
-        height: 86
+        x: 3514
+        y: 558
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1581,10 +1581,10 @@ TextureImporter:
       name: Lizard Attacking_45
       rect:
         serializedVersion: 2
-        x: 37
-        y: 394
-        width: 80
-        height: 86
+        x: 0
+        y: 372
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1602,10 +1602,10 @@ TextureImporter:
       name: Lizard Attacking_46
       rect:
         serializedVersion: 2
-        x: 288
-        y: 394
-        width: 80
-        height: 86
+        x: 251
+        y: 372
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1623,10 +1623,10 @@ TextureImporter:
       name: Lizard Attacking_47
       rect:
         serializedVersion: 2
-        x: 539
-        y: 394
-        width: 80
-        height: 86
+        x: 502
+        y: 372
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1644,10 +1644,10 @@ TextureImporter:
       name: Lizard Attacking_48
       rect:
         serializedVersion: 2
-        x: 790
-        y: 394
-        width: 80
-        height: 86
+        x: 753
+        y: 372
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1665,10 +1665,10 @@ TextureImporter:
       name: Lizard Attacking_49
       rect:
         serializedVersion: 2
-        x: 1041
-        y: 394
-        width: 80
-        height: 86
+        x: 1004
+        y: 372
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1686,10 +1686,10 @@ TextureImporter:
       name: Lizard Attacking_50
       rect:
         serializedVersion: 2
-        x: 1292
-        y: 394
-        width: 80
-        height: 86
+        x: 1255
+        y: 372
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1707,10 +1707,10 @@ TextureImporter:
       name: Lizard Attacking_51
       rect:
         serializedVersion: 2
-        x: 1543
-        y: 394
-        width: 80
-        height: 86
+        x: 1506
+        y: 372
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1728,10 +1728,10 @@ TextureImporter:
       name: Lizard Attacking_52
       rect:
         serializedVersion: 2
-        x: 1794
-        y: 394
-        width: 80
-        height: 86
+        x: 1757
+        y: 372
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1749,10 +1749,10 @@ TextureImporter:
       name: Lizard Attacking_53
       rect:
         serializedVersion: 2
-        x: 2045
-        y: 394
-        width: 80
-        height: 86
+        x: 2008
+        y: 372
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1770,10 +1770,10 @@ TextureImporter:
       name: Lizard Attacking_54
       rect:
         serializedVersion: 2
-        x: 2296
-        y: 394
-        width: 80
-        height: 86
+        x: 2259
+        y: 372
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1791,10 +1791,10 @@ TextureImporter:
       name: Lizard Attacking_55
       rect:
         serializedVersion: 2
-        x: 2547
-        y: 394
-        width: 80
-        height: 86
+        x: 2510
+        y: 372
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1812,10 +1812,10 @@ TextureImporter:
       name: Lizard Attacking_56
       rect:
         serializedVersion: 2
-        x: 2798
-        y: 394
-        width: 80
-        height: 86
+        x: 2761
+        y: 372
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1833,10 +1833,10 @@ TextureImporter:
       name: Lizard Attacking_57
       rect:
         serializedVersion: 2
-        x: 3049
-        y: 394
-        width: 80
-        height: 86
+        x: 3012
+        y: 372
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1854,10 +1854,10 @@ TextureImporter:
       name: Lizard Attacking_58
       rect:
         serializedVersion: 2
-        x: 3300
-        y: 394
-        width: 80
-        height: 86
+        x: 3263
+        y: 372
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1875,10 +1875,10 @@ TextureImporter:
       name: Lizard Attacking_59
       rect:
         serializedVersion: 2
-        x: 3551
-        y: 394
-        width: 80
-        height: 86
+        x: 3514
+        y: 372
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1896,10 +1896,10 @@ TextureImporter:
       name: Lizard Attacking_60
       rect:
         serializedVersion: 2
-        x: 37
-        y: 208
-        width: 80
-        height: 86
+        x: 0
+        y: 186
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1917,10 +1917,10 @@ TextureImporter:
       name: Lizard Attacking_61
       rect:
         serializedVersion: 2
-        x: 288
-        y: 208
-        width: 80
-        height: 86
+        x: 251
+        y: 186
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1938,10 +1938,10 @@ TextureImporter:
       name: Lizard Attacking_62
       rect:
         serializedVersion: 2
-        x: 539
-        y: 208
-        width: 80
-        height: 86
+        x: 502
+        y: 186
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1959,10 +1959,10 @@ TextureImporter:
       name: Lizard Attacking_63
       rect:
         serializedVersion: 2
-        x: 790
-        y: 208
-        width: 80
-        height: 86
+        x: 753
+        y: 186
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1980,10 +1980,10 @@ TextureImporter:
       name: Lizard Attacking_64
       rect:
         serializedVersion: 2
-        x: 1041
-        y: 208
-        width: 80
-        height: 86
+        x: 1004
+        y: 186
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2001,10 +2001,10 @@ TextureImporter:
       name: Lizard Attacking_65
       rect:
         serializedVersion: 2
-        x: 1292
-        y: 208
-        width: 80
-        height: 86
+        x: 1255
+        y: 186
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2022,10 +2022,10 @@ TextureImporter:
       name: Lizard Attacking_66
       rect:
         serializedVersion: 2
-        x: 1543
-        y: 208
-        width: 80
-        height: 86
+        x: 1506
+        y: 186
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2043,10 +2043,10 @@ TextureImporter:
       name: Lizard Attacking_67
       rect:
         serializedVersion: 2
-        x: 1794
-        y: 208
-        width: 80
-        height: 86
+        x: 1757
+        y: 186
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2064,10 +2064,10 @@ TextureImporter:
       name: Lizard Attacking_68
       rect:
         serializedVersion: 2
-        x: 2045
-        y: 208
-        width: 80
-        height: 86
+        x: 2008
+        y: 186
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2085,10 +2085,10 @@ TextureImporter:
       name: Lizard Attacking_69
       rect:
         serializedVersion: 2
-        x: 2296
-        y: 208
-        width: 80
-        height: 86
+        x: 2259
+        y: 186
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2106,10 +2106,10 @@ TextureImporter:
       name: Lizard Attacking_70
       rect:
         serializedVersion: 2
-        x: 2547
-        y: 208
-        width: 80
-        height: 86
+        x: 2510
+        y: 186
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2127,10 +2127,10 @@ TextureImporter:
       name: Lizard Attacking_71
       rect:
         serializedVersion: 2
-        x: 2798
-        y: 208
-        width: 80
-        height: 86
+        x: 2761
+        y: 186
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2148,10 +2148,10 @@ TextureImporter:
       name: Lizard Attacking_72
       rect:
         serializedVersion: 2
-        x: 3049
-        y: 208
-        width: 80
-        height: 86
+        x: 3012
+        y: 186
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2169,10 +2169,10 @@ TextureImporter:
       name: Lizard Attacking_73
       rect:
         serializedVersion: 2
-        x: 3300
-        y: 208
-        width: 80
-        height: 86
+        x: 3263
+        y: 186
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2190,10 +2190,10 @@ TextureImporter:
       name: Lizard Attacking_74
       rect:
         serializedVersion: 2
-        x: 3551
-        y: 208
-        width: 80
-        height: 86
+        x: 3514
+        y: 186
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2211,10 +2211,10 @@ TextureImporter:
       name: Lizard Attacking_75
       rect:
         serializedVersion: 2
-        x: 37
-        y: 22
-        width: 80
-        height: 86
+        x: 0
+        y: 0
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2232,10 +2232,10 @@ TextureImporter:
       name: Lizard Attacking_76
       rect:
         serializedVersion: 2
-        x: 288
-        y: 22
-        width: 80
-        height: 86
+        x: 251
+        y: 0
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2253,10 +2253,10 @@ TextureImporter:
       name: Lizard Attacking_77
       rect:
         serializedVersion: 2
-        x: 539
-        y: 22
-        width: 80
-        height: 86
+        x: 502
+        y: 0
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2274,10 +2274,10 @@ TextureImporter:
       name: Lizard Attacking_78
       rect:
         serializedVersion: 2
-        x: 790
-        y: 22
-        width: 80
-        height: 86
+        x: 753
+        y: 0
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2295,10 +2295,10 @@ TextureImporter:
       name: Lizard Attacking_79
       rect:
         serializedVersion: 2
-        x: 1041
-        y: 22
-        width: 80
-        height: 86
+        x: 1004
+        y: 0
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2316,10 +2316,10 @@ TextureImporter:
       name: Lizard Attacking_80
       rect:
         serializedVersion: 2
-        x: 1292
-        y: 22
-        width: 80
-        height: 86
+        x: 1255
+        y: 0
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2337,10 +2337,10 @@ TextureImporter:
       name: Lizard Attacking_81
       rect:
         serializedVersion: 2
-        x: 1543
-        y: 22
-        width: 80
-        height: 86
+        x: 1506
+        y: 0
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2358,10 +2358,10 @@ TextureImporter:
       name: Lizard Attacking_82
       rect:
         serializedVersion: 2
-        x: 1794
-        y: 22
-        width: 80
-        height: 86
+        x: 1757
+        y: 0
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2379,10 +2379,10 @@ TextureImporter:
       name: Lizard Attacking_83
       rect:
         serializedVersion: 2
-        x: 2045
-        y: 22
-        width: 80
-        height: 86
+        x: 2008
+        y: 0
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2400,10 +2400,10 @@ TextureImporter:
       name: Lizard Attacking_84
       rect:
         serializedVersion: 2
-        x: 2296
-        y: 22
-        width: 80
-        height: 86
+        x: 2259
+        y: 0
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2421,10 +2421,10 @@ TextureImporter:
       name: Lizard Attacking_85
       rect:
         serializedVersion: 2
-        x: 2547
-        y: 22
-        width: 80
-        height: 86
+        x: 2510
+        y: 0
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2442,10 +2442,10 @@ TextureImporter:
       name: Lizard Attacking_86
       rect:
         serializedVersion: 2
-        x: 2798
-        y: 22
-        width: 80
-        height: 86
+        x: 2761
+        y: 0
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2463,10 +2463,10 @@ TextureImporter:
       name: Lizard Attacking_87
       rect:
         serializedVersion: 2
-        x: 3049
-        y: 22
-        width: 80
-        height: 86
+        x: 3012
+        y: 0
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2484,10 +2484,10 @@ TextureImporter:
       name: Lizard Attacking_88
       rect:
         serializedVersion: 2
-        x: 3300
-        y: 22
-        width: 80
-        height: 86
+        x: 3263
+        y: 0
+        width: 251
+        height: 186
       alignment: 9
       pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}

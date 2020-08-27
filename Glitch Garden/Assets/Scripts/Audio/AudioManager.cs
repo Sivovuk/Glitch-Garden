@@ -6,9 +6,6 @@ using TMPro;
 
 public class AudioManager : MonoBehaviour
 {
-    public AudioSource forestMusic;
-    public AudioSource gameMusic;
-    public AudioSource loadSound;
     public AudioSource questSound;
 
     private static AudioManager instance;

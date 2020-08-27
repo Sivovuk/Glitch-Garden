@@ -13,6 +13,8 @@ GameObject:
   - component: {fileID: 993266041931892}
   - component: {fileID: 7977165972621669478}
   - component: {fileID: 7977165972621669481}
+  - component: {fileID: 4164137265898386923}
+  - component: {fileID: 1415383202792900866}
   m_Layer: 0
   m_Name: Fox
   m_TagString: Enemy
@@ -71,7 +73,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 327728061
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: -2468473409954516976, guid: e4d6f16083f3024468c386763705a2b6,
     type: 3}
@@ -117,11 +119,11 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.053079605, y: 0.1836406}
+  m_Offset: {x: -0.11, y: -0.03}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
-    oldSize: {x: 1.21, y: 0.45}
+    pivot: {x: 0.5, y: 0.25}
+    oldSize: {x: 1.53, y: 1.39}
     newSize: {x: 2.51, y: 1.86}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -151,3 +153,39 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &4164137265898386923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 993266041931893}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fe61e7f3ed8ef840a0734661ad894d9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _health: 3
+  _damage: 3
+  _score: 10
+  _timePass: 0
+  _attackSpeed: 0.5
+  isAttacking: 0
+  _target: {fileID: 0}
+  _effect: {fileID: 1906222994913036, guid: 740c2b3187d56c341b8cb78e8aa925c5, type: 3}
+  _movementController: {fileID: 1415383202792900866}
+  _animator: {fileID: 993266041931892}
+--- !u!114 &1415383202792900866
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 993266041931893}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2766ee6d61cde34197c14bd2118a5e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _walkingSpeed: 3
+  _runningSpeed: 5

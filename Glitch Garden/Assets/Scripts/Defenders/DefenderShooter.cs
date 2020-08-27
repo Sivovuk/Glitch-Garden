@@ -13,11 +13,15 @@ public class DefenderShooter : MonoBehaviour, IDamageable
 
     [SerializeField] private GameObject _ammo;
     [SerializeField] private Transform _shootPoint;
-    public GameObject _laneSpawnPoint;
+    [SerializeField] private GameObject _laneSpawnPoint;
+    [SerializeField] private GameObject _effect;
+
+    private Animator _animator;
 
     void Start()
     {
         _laneSpawnPoint = GameObject.Find("Point"+transform.localPosition.y);
+        _animator = GetComponent<Animator>();
     }
 
 
@@ -37,10 +41,12 @@ public class DefenderShooter : MonoBehaviour, IDamageable
         if (_laneSpawnPoint != null && _laneSpawnPoint.transform.childCount > 0)
         {
             isAttacking = true;
+            _animator.SetBool("isAttacking", true);
         }
         else 
         {
             isAttacking = false;
+            _animator.SetBool("isAttacking", false);
         }
     }
 
@@ -51,10 +57,14 @@ public class DefenderShooter : MonoBehaviour, IDamageable
 
     public void TakeDamage(int damage)
     {
+        Debug.LogError(damage);
         _health -= damage;
 
         if (_health <= 0) 
         {
+            GameObject spawn = Instantiate(_effect, transform.position, Quaternion.identity);
+            Destroy(spawn, 2);
+
             Destroy(gameObject);
         }
     }

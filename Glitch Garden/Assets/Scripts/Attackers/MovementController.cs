@@ -5,14 +5,19 @@ using UnityEngine;
 public class MovementController : MonoBehaviour
 {
     [SerializeField] private float _walkingSpeed;
+    [SerializeField] private float _runningSpeed;
 
-    private bool isWalking = false;
+    private float _speed;
+
+    private bool isWalking = true;
 
     void Update()
     {
+        _speed = _walkingSpeed;
+
         if (isWalking)
         {
-            transform.Translate(Vector2.left * Time.deltaTime * _walkingSpeed);
+            transform.Translate(Vector2.left * Time.deltaTime * _speed);
         }
     }
 
@@ -24,5 +29,15 @@ public class MovementController : MonoBehaviour
     public void SetWait() 
     {
         isWalking = false;
+    }
+
+    public void SetRunningSpeed() 
+    {
+        _speed = _runningSpeed;
+    }
+
+    public void SetWalkingSpeed() 
+    {
+        _speed = _walkingSpeed;
     }
 }

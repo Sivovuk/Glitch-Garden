@@ -62,6 +62,66 @@ TextureImporter:
   - first:
       213: 781529429376668191
     second: Fox Eating_19
+  - first:
+      213: -7918879543419175023
+    second: Fox Eating_0
+  - first:
+      213: 6960471119982376725
+    second: Fox Eating_1
+  - first:
+      213: -7336579170693901634
+    second: Fox Eating_2
+  - first:
+      213: -1593368553183989059
+    second: Fox Eating_3
+  - first:
+      213: 3564598698833049025
+    second: Fox Eating_4
+  - first:
+      213: 2382611992402078124
+    second: Fox Eating_5
+  - first:
+      213: -6684540170755188602
+    second: Fox Eating_6
+  - first:
+      213: -2402827915112712695
+    second: Fox Eating_7
+  - first:
+      213: -6835592081479871093
+    second: Fox Eating_8
+  - first:
+      213: -2945127648769402459
+    second: Fox Eating_9
+  - first:
+      213: 3275710573840697943
+    second: Fox Eating_10
+  - first:
+      213: 7149491564096236103
+    second: Fox Eating_11
+  - first:
+      213: 6473122951036492208
+    second: Fox Eating_12
+  - first:
+      213: -3364264316956389870
+    second: Fox Eating_13
+  - first:
+      213: -1941925552173033145
+    second: Fox Eating_14
+  - first:
+      213: 4194658780726646917
+    second: Fox Eating_15
+  - first:
+      213: 6742714667072451892
+    second: Fox Eating_16
+  - first:
+      213: 5222273111273656007
+    second: Fox Eating_17
+  - first:
+      213: 7154214103175614113
+    second: Fox Eating_18
+  - first:
+      213: -3421421608194266205
+    second: Fox Eating_19
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -162,19 +222,19 @@ TextureImporter:
       name: Fox Eating_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 426
-        width: 97
-        height: 99
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 417
+        width: 153
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d2ec20943467ce30800000000000000
-      internalID: 4523694527636890326
+      spriteID: 19f7463e20d7a1290800000000000000
+      internalID: -7918879543419175023
       vertices: []
       indices: 
       edges: []
@@ -183,19 +243,19 @@ TextureImporter:
       name: Fox Eating_1
       rect:
         serializedVersion: 2
-        x: 164
-        y: 426
-        width: 97
-        height: 99
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 153
+        y: 417
+        width: 153
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8a9b36bcdffa9b40800000000000000
-      internalID: 5447948022673283725
+      spriteID: 5173aeffa9f889060800000000000000
+      internalID: 6960471119982376725
       vertices: []
       indices: 
       edges: []
@@ -204,19 +264,19 @@ TextureImporter:
       name: Fox Eating_2
       rect:
         serializedVersion: 2
-        x: 317
-        y: 426
-        width: 97
-        height: 100
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 306
+        y: 417
+        width: 153
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c46fffd0b0181760800000000000000
-      internalID: 7428705937205978307
+      spriteID: eb292487d1c3f2a90800000000000000
+      internalID: -7336579170693901634
       vertices: []
       indices: 
       edges: []
@@ -225,19 +285,19 @@ TextureImporter:
       name: Fox Eating_3
       rect:
         serializedVersion: 2
-        x: 470
-        y: 425
-        width: 97
-        height: 101
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 459
+        y: 417
+        width: 153
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6993ac87f3302ed20800000000000000
-      internalID: 3306208647587707286
+      spriteID: db2b03f2eb733e9e0800000000000000
+      internalID: -1593368553183989059
       vertices: []
       indices: 
       edges: []
@@ -246,19 +306,19 @@ TextureImporter:
       name: Fox Eating_4
       rect:
         serializedVersion: 2
-        x: 624
-        y: 424
-        width: 96
-        height: 104
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 612
+        y: 417
+        width: 153
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22cefcd644dd7c040800000000000000
-      internalID: 4667942824762666018
+      spriteID: 1c573ca61aff77130800000000000000
+      internalID: 3564598698833049025
       vertices: []
       indices: 
       edges: []
@@ -267,19 +327,19 @@ TextureImporter:
       name: Fox Eating_5
       rect:
         serializedVersion: 2
-        x: 12
-        y: 284
-        width: 96
-        height: 105
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 278
+        width: 153
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a531b15f1c2c1bb0800000000000000
-      internalID: -4964044176242952792
+      spriteID: ca926b4cbfcb01120800000000000000
+      internalID: 2382611992402078124
       vertices: []
       indices: 
       edges: []
@@ -288,19 +348,19 @@ TextureImporter:
       name: Fox Eating_6
       rect:
         serializedVersion: 2
-        x: 165
-        y: 284
-        width: 96
-        height: 107
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 153
+        y: 278
+        width: 153
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3a911c6a575c5fd0800000000000000
-      internalID: -2351908859522475459
+      spriteID: 688de43812ebb33a0800000000000000
+      internalID: -6684540170755188602
       vertices: []
       indices: 
       edges: []
@@ -309,19 +369,19 @@ TextureImporter:
       name: Fox Eating_7
       rect:
         serializedVersion: 2
-        x: 317
-        y: 285
-        width: 97
-        height: 106
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 306
+        y: 278
+        width: 153
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9817366422f79d70800000000000000
-      internalID: 9049968214371932315
+      spriteID: 906705fedb077aed0800000000000000
+      internalID: -2402827915112712695
       vertices: []
       indices: 
       edges: []
@@ -330,19 +390,19 @@ TextureImporter:
       name: Fox Eating_8
       rect:
         serializedVersion: 2
-        x: 470
-        y: 286
-        width: 97
-        height: 105
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 459
+        y: 278
+        width: 153
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1a743e641790b400800000000000000
-      internalID: 337936086056860190
+      spriteID: b855be9e7391321a0800000000000000
+      internalID: -6835592081479871093
       vertices: []
       indices: 
       edges: []
@@ -351,19 +411,19 @@ TextureImporter:
       name: Fox Eating_9
       rect:
         serializedVersion: 2
-        x: 623
-        y: 287
-        width: 97
-        height: 104
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 612
+        y: 278
+        width: 153
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f20e546cdc2247270800000000000000
-      internalID: 8247255084812329007
+      spriteID: 5a91be4e10ec027d0800000000000000
+      internalID: -2945127648769402459
       vertices: []
       indices: 
       edges: []
@@ -372,19 +432,19 @@ TextureImporter:
       name: Fox Eating_10
       rect:
         serializedVersion: 2
-        x: 11
-        y: 148
-        width: 97
-        height: 104
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 139
+        width: 153
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7fa8496aa02dc47e0800000000000000
-      internalID: -1779816809531929865
+      spriteID: 75a04c45969a57d20800000000000000
+      internalID: 3275710573840697943
       vertices: []
       indices: 
       edges: []
@@ -393,19 +453,19 @@ TextureImporter:
       name: Fox Eating_11
       rect:
         serializedVersion: 2
-        x: 164
-        y: 148
-        width: 97
-        height: 104
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 153
+        y: 139
+        width: 153
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 666137d5621b00be0800000000000000
-      internalID: -1513014696461789594
+      spriteID: 74aab9aa2b8183360800000000000000
+      internalID: 7149491564096236103
       vertices: []
       indices: 
       edges: []
@@ -414,19 +474,19 @@ TextureImporter:
       name: Fox Eating_12
       rect:
         serializedVersion: 2
-        x: 317
-        y: 148
-        width: 97
-        height: 104
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 306
+        y: 139
+        width: 153
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53c946c0d452c0150800000000000000
-      internalID: 5840083829643320373
+      spriteID: 0b955f3270725d950800000000000000
+      internalID: 6473122951036492208
       vertices: []
       indices: 
       edges: []
@@ -435,19 +495,19 @@ TextureImporter:
       name: Fox Eating_13
       rect:
         serializedVersion: 2
-        x: 470
-        y: 147
-        width: 97
-        height: 105
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 459
+        y: 139
+        width: 153
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e7dfad6977849480800000000000000
-      internalID: -8893334408548853788
+      spriteID: 21eca49ad6bbf41d0800000000000000
+      internalID: -3364264316956389870
       vertices: []
       indices: 
       edges: []
@@ -456,19 +516,19 @@ TextureImporter:
       name: Fox Eating_14
       rect:
         serializedVersion: 2
-        x: 624
-        y: 146
-        width: 96
-        height: 106
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 612
+        y: 139
+        width: 153
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d702f11a101d9b40800000000000000
-      internalID: 5448528828344436692
+      spriteID: 749d872cff4ec05e0800000000000000
+      internalID: -1941925552173033145
       vertices: []
       indices: 
       edges: []
@@ -477,19 +537,19 @@ TextureImporter:
       name: Fox Eating_15
       rect:
         serializedVersion: 2
-        x: 12
-        y: 6
-        width: 96
-        height: 107
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 0
+        width: 153
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3c625469293abd40800000000000000
-      internalID: 5600851936528198718
+      spriteID: 5885f23dfeb663a30800000000000000
+      internalID: 4194658780726646917
       vertices: []
       indices: 
       edges: []
@@ -498,19 +558,19 @@ TextureImporter:
       name: Fox Eating_16
       rect:
         serializedVersion: 2
-        x: 165
-        y: 6
-        width: 96
-        height: 105
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 153
+        y: 0
+        width: 153
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 044ea3bcd17f803a0800000000000000
-      internalID: -6698832738377866176
+      spriteID: 4357ba8e34fe29d50800000000000000
+      internalID: 6742714667072451892
       vertices: []
       indices: 
       edges: []
@@ -519,19 +579,19 @@ TextureImporter:
       name: Fox Eating_17
       rect:
         serializedVersion: 2
-        x: 317
-        y: 7
-        width: 97
-        height: 104
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 306
+        y: 0
+        width: 153
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac9dcfeb8eafeabd0800000000000000
-      internalID: -2616878455912080950
+      spriteID: 7ce4a85d9bd397840800000000000000
+      internalID: 5222273111273656007
       vertices: []
       indices: 
       edges: []
@@ -540,19 +600,19 @@ TextureImporter:
       name: Fox Eating_18
       rect:
         serializedVersion: 2
-        x: 470
-        y: 8
-        width: 97
-        height: 101
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 459
+        y: 0
+        width: 153
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b044a9b840f3af9f0800000000000000
-      internalID: -433965125333269493
+      spriteID: 1ae4fda72dfd84360800000000000000
+      internalID: 7154214103175614113
       vertices: []
       indices: 
       edges: []
@@ -561,19 +621,19 @@ TextureImporter:
       name: Fox Eating_19
       rect:
         serializedVersion: 2
-        x: 623
-        y: 9
-        width: 97
-        height: 100
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 612
+        y: 0
+        width: 153
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f12928310ec88da00800000000000000
-      internalID: 781529429376668191
+      spriteID: 3ab2cb0cc2ba480d0800000000000000
+      internalID: -3421421608194266205
       vertices: []
       indices: 
       edges: []

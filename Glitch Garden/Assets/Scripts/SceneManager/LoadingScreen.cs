@@ -11,7 +11,6 @@ public class LoadingScreen : MonoBehaviour
 
 	private void Start()
 	{
-		AudioManager.Instance.PlayAudio(AudioManager.Instance.loadSound);
 		StartCoroutine(LoadSceneAsych());
 	}
 

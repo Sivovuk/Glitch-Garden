@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
+  - Gravestone
   layers:
   - Default
   - TransparentFX
@@ -45,11 +46,11 @@ TagManager:
   - name: Background
     uniqueID: 1993619973
     locked: 0
-  - name: Enemy
-    uniqueID: 327728061
-    locked: 0
   - name: Player
     uniqueID: 1162255537
+    locked: 0
+  - name: Enemy
+    uniqueID: 327728061
     locked: 0
   - name: Ammo
     uniqueID: 3372224657
